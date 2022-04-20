@@ -11,3 +11,5 @@ Primeiro curso de Git. Aprendendo Git agora...
 acabei de fazer uma alteração para ser colocada no meu repositorio remoto.
 
 isto é um [button](botao)
+
+mais uma coisa que coloquei para o git stash
